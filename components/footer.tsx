@@ -130,7 +130,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-white/20 mt-8 pt-8 text-center text-sm opacity-90">
-          <p>&copy; 2024 Aamukh Capital. All rights reserved.</p>
+          <p>&copy; 2024 Yours Capital. All rights reserved.</p>
         </div>
       </div>
     </footer>
