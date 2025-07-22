@@ -38,7 +38,7 @@ export function Footer() {
       <div className="container mx-auto">
         <div className="grid md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Aamukh Capital</h3>
+            <h3 className="text-xl font-bold mb-4">Yours Capital</h3>
             <p className="text-sm opacity-90 mb-4">
               Empowering startups to build the future, connecting Indian innovation with global opportunities.
             </p>
@@ -65,7 +65,7 @@ export function Footer() {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <p>info@aamukhcapital.com</p>
+                <p>info@yourscapital.com</p>
               </div>
             </div>
           </div>
