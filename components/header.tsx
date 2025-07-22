@@ -22,7 +22,7 @@ export function Header() {
     <header className="border-b border-gray-100 px-4 py-4 bg-white sticky top-0 z-50">
       <div className="container mx-auto flex items-center justify-between">
         <Link href="/" className="text-xl font-bold text-gray-900">
-          Aamukh Capital
+          Yours Capital
         </Link>
 
         {/* Desktop Navigation */}
